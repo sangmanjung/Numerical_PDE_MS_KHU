@@ -1,6 +1,6 @@
 ### Numerical_PDE_MS_KHU
   
-- Homeworks and implementation codes for Numerical PDEs (graduate school in KHU)
+- Homeworks and implementation codes for Numerical PDEs (graduate school of KHU)
 
 #### Instructor
 - Prof. Sunmi Lee
